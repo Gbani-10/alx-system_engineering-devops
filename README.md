@@ -1,0 +1,1 @@
+echo " This directory is to help us understand the basics of system engineering"

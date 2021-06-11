@@ -1,0 +1,1 @@
+echo "All commands in this directory are executable when invoked"
