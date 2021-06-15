@@ -1,0 +1,2 @@
+#!/bin/bash
+cat 13-unique | sort | unique -c | grep -e '^\s.*1\s' | awk '{print}'
